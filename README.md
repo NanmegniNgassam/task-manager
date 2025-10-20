@@ -3,7 +3,7 @@
 A simple and efficient command-line application for managing tasks, built with **Java 21**.  
 It allows users to create, update, complete, delete, and persist tasks in a plain text file.
 
----
+<br>
 
 ## Features
 
@@ -13,7 +13,7 @@ It allows users to create, update, complete, delete, and persist tasks in a plai
 - Save tasks to a `.txt` file  
 - Load tasks from an existing file  
 
----
+<br>
 
 ## Technologies
 
@@ -21,7 +21,7 @@ It allows users to create, update, complete, delete, and persist tasks in a plai
 - **Interface:** Command Line  
 - **Persistence:** Text file (`.txt`)
 
----
+<br>
 
 ## Project Structure
 
